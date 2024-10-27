@@ -1,9 +1,2 @@
-<div align="center">
-    <br>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ToNuOne11&theme=transparent" />
-    <br>
-    <p>
-    
-[![LeetCode Stats](https://leetcode.card.workers.dev/juuute3110?theme=default&font=baloo&extension=null#gh-light-mode-only)](https://leetcode.com/u/juuute3110/#gh-light-mode-only)
-[![LeetCode Stats](https://leetcode.card.workers.dev/juuute3110?theme=dark&font=baloo&extension=null#gh-dark-mode-only)](https://leetcode.com/u/juuute3110/#gh-dark-mode-only)
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ToNuOne11&theme=nord&hide_border=true&card_height=201)](https://git.io/streak-stats)
+![LeetCode Stats](https://leetcode.card.workers.dev/juuute3110?theme=nord&font=baloo&extension=null)
